@@ -1,0 +1,79 @@
+2023-03-25T03:20:19+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\buho\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-shipping-zone-locations-v2-controller.php on line 25
+
+2023-03-25T03:20:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\buho\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-shipping-zone-locations-v2-controller.php on line 25
+
+2023-03-25T03:32:21+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Sync\Actions::reset_sync_locks() in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php:982
+Stack trace:
+#0 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php(994): Automattic\Jetpack\Sync\Sender->reset_data()
+#1 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(46): Automattic\Jetpack\Sync\Sender->uninstall()
+#2 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(52): jetpack_uninstall()
+#3 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(1241): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(958): uninstall_plugin('jetpack/jetpack...')
+#5 C:\xampp\htdocs\buho\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#6 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#7 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\buho\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\buho\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#10 {main}
+  thrown in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php on line 982
+
+2023-03-25T03:34:11+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Sync\Actions::reset_sync_locks() in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php:982
+Stack trace:
+#0 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php(994): Automattic\Jetpack\Sync\Sender->reset_data()
+#1 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(46): Automattic\Jetpack\Sync\Sender->uninstall()
+#2 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(52): jetpack_uninstall()
+#3 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(1241): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(958): uninstall_plugin('jetpack/jetpack...')
+#5 C:\xampp\htdocs\buho\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#6 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#7 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\buho\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\buho\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#10 {main}
+  thrown in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php on line 982
+
+2023-03-25T03:36:41+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Sync\Actions::reset_sync_locks() in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php:982
+Stack trace:
+#0 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php(994): Automattic\Jetpack\Sync\Sender->reset_data()
+#1 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(46): Automattic\Jetpack\Sync\Sender->uninstall()
+#2 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(52): jetpack_uninstall()
+#3 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(1241): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(958): uninstall_plugin('jetpack/jetpack...')
+#5 C:\xampp\htdocs\buho\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#6 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#7 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\buho\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\buho\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#10 {main}
+  thrown in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php on line 982
+
+2023-03-25T03:37:15+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Sync\Actions::reset_sync_locks() in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php:982
+Stack trace:
+#0 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php(994): Automattic\Jetpack\Sync\Sender->reset_data()
+#1 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(46): Automattic\Jetpack\Sync\Sender->uninstall()
+#2 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(52): jetpack_uninstall()
+#3 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(1241): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(958): uninstall_plugin('jetpack/jetpack...')
+#5 C:\xampp\htdocs\buho\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#6 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#7 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\buho\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\buho\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#10 {main}
+  thrown in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php on line 982
+
+2023-03-25T12:45:17+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Sync\Actions::reset_sync_locks() in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php:982
+Stack trace:
+#0 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php(994): Automattic\Jetpack\Sync\Sender->reset_data()
+#1 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(46): Automattic\Jetpack\Sync\Sender->uninstall()
+#2 C:\xampp\htdocs\buho\wp-content\plugins\jetpack\uninstall.php(52): jetpack_uninstall()
+#3 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(1241): include_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\buho\wp-admin\includes\plugin.php(958): uninstall_plugin('jetpack/jetpack...')
+#5 C:\xampp\htdocs\buho\wp-admin\includes\ajax-actions.php(4698): delete_plugins(Array)
+#6 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(308): wp_ajax_delete_plugin('')
+#7 C:\xampp\htdocs\buho\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#8 C:\xampp\htdocs\buho\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\buho\wp-admin\admin-ajax.php(188): do_action('wp_ajax_delete-...')
+#10 {main}
+  thrown in C:\xampp\htdocs\buho\wp-content\plugins\jetpack\jetpack_vendor\automattic\jetpack-sync\src\class-sender.php on line 982
+
