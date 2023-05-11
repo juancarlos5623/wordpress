@@ -1,4 +1,4 @@
-PROYECTO GRUPAL DE LA PAGINA WEB
+*PROYECTO GRUPAL DE LA PAGINA WEB*
 
 Pagina principal del MiniMarket San Luis
 ![image](https://github.com/juancarlos5623/wordpress/assets/127963030/7bb0692b-5309-45b0-922c-dd1c6a494392)
