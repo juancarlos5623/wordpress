@@ -27,10 +27,12 @@ Muestra de produc
 
 
 Listado de paginas con los productos
+
 ![image](https://github.com/juancarlos5623/wordpress/assets/127963030/2b862f1d-1e7f-4099-8435-0cb7c01317af)
 
 
 Productos
+
 ![image](https://github.com/juancarlos5623/wordpress/assets/127963030/de391875-48a6-4228-9ecd-9aabdfcfe639)
 
 
