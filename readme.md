@@ -42,11 +42,14 @@ Cotización y Compra de los productos seleccionados
 
 
 Ingreso de datos para el envio de la compra
-imagen11
+![image](https://github.com/juancarlos5623/wordpress/assets/127963030/6bba6239-1d79-459c-8503-ecd1d9fb9bf5)
+
 
 Orden recibida y muestra de los datos ingresados
-imagen12
+![image](https://github.com/juancarlos5623/wordpress/assets/127963030/aa342633-c8ef-4167-87a3-397d15ac0847)
+
 
 Vista de los productos que se le van agregando al carrito de compras
-imagen13
+![image](https://github.com/juancarlos5623/wordpress/assets/127963030/305c4f07-fa76-46d8-bbd3-f42faf61f8a1)
+
 
