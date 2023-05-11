@@ -1,7 +1,9 @@
 PROYECTO GRUPAL DE LA PAGINA WEB
-Pagina principal del MiniMarket San Luis
 
-https://user-images.githubusercontent.com/125288026/237750446-f2d75346-603f-454a-81be-450ba7aa1da2.png
+Pagina principal del MiniMarket San Luis
+![image](https://github.com/juancarlos5623/wordpress/assets/127963030/7bb0692b-5309-45b0-922c-dd1c6a494392)
+
+
 
 Categorias de Productos
 imagen2
